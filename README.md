@@ -35,7 +35,19 @@
 
 <a href="https://github.com/Caspioif/Caspioif/blob/4945baf15c61a36cad1179ea8ae38be887940885/Material" title="View PDF now"> 📕Clique aqui para ver</a>
 
-
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="Pacman.png"
+    />
+    <p>&nbsp&nbsp&nbspKaik Klydson<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/Caspioif">
+        GitHub
+    </a>
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode).
 Valeu, Felipão.
