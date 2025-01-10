@@ -25,25 +25,17 @@
 - "[Libre Office](https://pt-br.libreoffice.org)".
 
 
-## ✨ Como foi feito ?
+## ⚡ Como foi feito ?
 
 - Roteiro baseado na aula do [Felipão](https://github.com/felipeAguiarCode)
 - Projeto e templates produzidos no [Libre Office Calc](https://pt-br.libreoffice.org)
 
 
-## 📚 Materiais
+## 👀 Materiais
 
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-- 👋 Hi, I’m @Caspioif
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://github.com/Caspioif/Caspioif/blob/4945baf15c61a36cad1179ea8ae38be887940885/Material" title="View PDF now"> 📕Clique aqui para ver</a>
 
-<!---
-Caspioif/Caspioif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode).
+Valeu, Felipão.
