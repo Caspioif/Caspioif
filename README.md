@@ -28,8 +28,8 @@
 ## ✨ Como foi feito ?
 
 - Roteiro baseado na aula do [Felipão](https://github.com/felipeAguiarCode)
-- Audio gerado pelo Capcut, além de tratá-lo e adicionar sons de fundo
-- Shakker AI Para gerar capas
+- Projeto e templates produzidos no [Libre Office Calc](https://pt-br.libreoffice.org)
+
 
 ## 📚 Materiais
 
